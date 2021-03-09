@@ -27,6 +27,7 @@ GEM
       rails-html-sanitizer (~> 1.0, >= 1.2.0)
     actiontext (6.0.3.5)
       actionpack (= 6.0.3.5)
+      activerecord (= 6.0.3.5)
       activestorage (= 6.0.3.5)
       activesupport (= 6.0.3.5)
       nokogiri (>= 1.8.5)
